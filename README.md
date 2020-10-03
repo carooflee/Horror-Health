@@ -16,6 +16,9 @@ Simply click on the deployed link below and click through the various films coll
 # Deployed Link
 https://carooflee.github.io/Horror-Health/
 
+# Screenshot
+![frontpage](https://github.com/carooflee/Horror-Health/blob/main/screenshot.png)
+
 # Credits 
 [Caroline Lee](https://github.com/carooflee)
 
