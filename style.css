@@ -174,3 +174,7 @@
     max-height: 5000px;
     min-height: 500px;
   }
+
+.list {
+  margin-top: 35px;
+}
